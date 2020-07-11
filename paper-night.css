@@ -546,8 +546,6 @@ td {
 #write>h6:before {
     border: none;
     border-radius: 0px;
-    color: #888;
-    text-decoration: underline;
     left: -1.4rem;
     top: 0.2rem;
 }
