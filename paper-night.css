@@ -1137,7 +1137,7 @@ h6.md-focus:before {
 }
  
 .md-toc-h1:before {
-    color: var(--primary-color);
+    color: white;
     counter-increment: h1toc;
     content:
 }
@@ -1147,7 +1147,7 @@ h6.md-focus:before {
 }
  
 .md-toc-h2:before {
-    color: var(--primary-color);
+    color: white;
     counter-increment: h2toc;
     content: counter(h2toc) "  "
 }
@@ -1157,7 +1157,7 @@ h6.md-focus:before {
 }
  
 .md-toc-h3:before {
-    color: var(--primary-color);
+    color: white;
     counter-increment: h3toc;
     content: counter(h2toc) "." counter(h3toc) "  "
 }
@@ -1167,7 +1167,7 @@ h6.md-focus:before {
 }
  
 .md-toc-h4:before {
-    color: var(--primary-color);
+    color: white;
     counter-increment: h4toc;
     content: counter(h2toc) "." counter(h3toc) "." counter(h4toc) "  "
 }
@@ -1177,7 +1177,7 @@ h6.md-focus:before {
 }
  
 .md-toc-h5:before {
-    color: var(--primary-color);
+    color: white;
     counter-increment: h5toc;
     content: counter(h2toc) "." counter(h3toc) "." counter(h4toc) "." counter(h5toc) "  "
 }
@@ -1187,7 +1187,7 @@ h6.md-focus:before {
 }
  
 .md-toc-h6:before {
-    color: var(--primary-color);
+    color: white;
     counter-increment: h6toc;
     content: counter(h2toc) "." counter(h3toc) "." counter(h4toc) "." counter(h5toc) "." counter(h6toc) "  "
 }
